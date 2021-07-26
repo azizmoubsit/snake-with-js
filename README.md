@@ -1,3 +1,3 @@
 # Snake with JAVASCRIPT
 
-![alt text]('./screen.png')
+![alt text](./screen.png)
